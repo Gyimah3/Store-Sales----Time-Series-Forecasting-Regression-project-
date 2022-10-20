@@ -1,6 +1,7 @@
 # Store-Sales----Time-Series-Forecasting-Regression-project-
 
-##OVERVIEW
+#OVERVIEW
+
 Analyzing the success of a company's stores is one of the most crucial duties . Any store's key difficulty is anticipating sales and the inventory needed at each location in order to avoid both overstocking and understocking. This makes it possible for the company to offer the finest customer service while preventing losses, guaranteeing that the store can continue to operate.
 
 This is a time series forecasting problem. In this project, I'll predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
