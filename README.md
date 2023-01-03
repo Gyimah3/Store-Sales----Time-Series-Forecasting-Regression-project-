@@ -1,6 +1,6 @@
 # Store-Sales----Time-Series-Forecasting-Regression-project-
 
-#OVERVIEW
+# OVERVIEW
 
 Analyzing the success of a company's stores is one of the most crucial duties . Any store's key difficulty is anticipating sales and the inventory needed at each location in order to avoid both overstocking and understocking. This makes it possible for the company to offer the finest customer service while preventing losses, guaranteeing that the store can continue to operate.
 
@@ -10,7 +10,7 @@ Specifically, I'm to build a model that more accurately predicts the unit sales 
 
 The training data includes dates, store, and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models
 
-###File Descriptions and Data Field Information
+### File Descriptions and Data Field Information
 
 train.csv
 
@@ -50,7 +50,7 @@ oil.csv
 holidays_events.csv
 * Holidays and Events, with metadata
 
-####QUESTIONS
+#### QUESTIONS
 * Is the train dataset complete (has all the required dates)?
 * Which dates have the lowest and highest sales for each year?
  * Which City is having most number of stores?
@@ -64,7 +64,7 @@ holidays_events.csv
 * What are the most sold items on Christmas?
 * Sales of individual items over a period of time.
 
-#####HYPOTHESIS
+### HYPOTHESIS
 
 * Promotion positively impacts sales.
 * Earthquake strike on ecuador on April 16, 2016 does not have impact on sales
